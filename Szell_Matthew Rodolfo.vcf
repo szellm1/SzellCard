@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 15.6//EN
+N:Szell;Matthew Rodolfo;;;
+FN:Matthew Rodolfo Szell
+EMAIL;type=INTERNET;type=WORK;type=pref:mszell43@gmail.com
+TEL;type=CELL;type=VOICE;type=pref:(718) 664-8251
+X-SOCIALPROFILE;type=linkedin:http://www.linkedin.com/in/linkedin.com/in/matthewszell
+X-SOCIALPROFILE;type=Instagram;x-user=instagram.com/m_szell/:x-apple:instagram.com/m_szell/
+X-SOCIALPROFILE;type=twitter:http://twitter.com/twitter.com/MatthewSzell
+END:VCARD
